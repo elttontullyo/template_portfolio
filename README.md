@@ -5,13 +5,13 @@
 </p>
 
 # Carlos Melo
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Post-Graduate student in computer vision at UFRPE</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+As a novice data scientist, I have analytical skills, the ability to work in team environments and attention to detail. Having spent the last few years applying statistical methods to measure aspects of dependability in IoT systems, I developed critical thinking and problem-solving skills.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+My credentials include a master's degree in Computer Science from the Federal University of Pernambuco (UFPE), an institution of higher education and advanced research ranked as one of the best and most prestigious computer schools in Brazil. And I am currently a graduate student in computer vision at the Federal Rural University of Pernambuco (UFRPE).
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, Machine Learning, Dependability models, and statistics.
 
 **Links:**
 * [Blog](http://sigmoidal.ai)
